@@ -10,7 +10,7 @@ public class TestController {
 
     @GetMapping("/hello")
     public String getString() {
-        return "hello";
+        return "deploy test";
 
     }
 }
